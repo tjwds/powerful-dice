@@ -31,7 +31,8 @@ Then each die is played against all dice in the set a number of times.  The die 
 The results here are inconclusive.  As demonstrated in the results file, there are two dice that emerge as the frontrunners, yet the difference between the two of them (.4% in the 50000 tries run) is not large enough to dismiss the randomness of the results.
 
 ```[0, 0, 5, 5, 5, 6], 1194435 wins
-[0, 0, 3, 6, 6, 6], 1195087 wins```
+[0, 0, 3, 6, 6, 6], 1195087 wins 
+```
 
 It also could very well be that the random number generator built into the `random` module gives an edge to some dice over others!
 
